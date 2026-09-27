@@ -39,7 +39,7 @@ DEFAULT_CATEGORY_RULES = [
     # Hiburan
     (r'\b(bioskop|nonton|game|steam|netflix|spotify|youtube)\b', 'Hiburan', 'EXPENSE'),
     # Pendapatan
-    (r'\b(gaji|freelance|bonus|thr|dividen|penjualan|omset|profit)\b', 'Pendapatan', 'INCOME'),
+    (r'\b(dpt\s+uang|gaji|freelance|bonus|thr|dividen|penjualan|omset|profit)\b', 'Pendapatan', 'INCOME'),
 ]
 
 def parse_transaction(text: str) -> Optional[Dict[str, Any]]:
