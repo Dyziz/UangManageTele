@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment Variables
+.env
+
+# Database
+*.db
+finance.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output test images
+*.png
