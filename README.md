@@ -1,6 +1,6 @@
 # Bot Telegram Pengatur Keuangan (Anti Ribet) ⚡
 
-Bot Telegram pencatat keuangan super cepat dengan prinsip **langsung to the point tanpa basa-basi**. Tinggal ketik pengeluaran pakai bahasa sehari-hari, data langsung masuk ke database lokal, dan ada grafik visualnya.
+Bot Telegram pencatat keuangan super cepat dengan prinsip **langsung to the point tanpa basa-basi**. Tinggal ketik pengeluaran pakai bahasa sehari-hari, data langsung masuk ke database lokal, dan ada grafik visualnya btw ini kebikin gegara gw males pake webnya lol (kalo penasaran web nya bisa kontak langsung ke gw).
 
 ---
 
